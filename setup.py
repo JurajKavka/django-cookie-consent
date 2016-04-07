@@ -13,7 +13,6 @@ CLASSIFIERS = [
 ]
 
 install_requires = [
-    'Django>=1.4.2',
     'django-appconf',
 ]
 
